@@ -1,5 +1,5 @@
 ---
-bio: An Aspiring Systems Biologist.
+bio: 
 education:
   courses:
   - course: BS in Applied Mathematics
@@ -12,9 +12,9 @@ interests:
 - Quantitative Systems Pharmacology
 - Mechanistic Mathematical Modeling
 organizations:
-- name: The Jackson Laboratory
-  url: https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/
-role: Research Data Analyst
+# - name: The Jackson Laboratory
+#  url: https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/
+role: An Aspiring Systems Biologist
 social:
 - icon: envelope
   icon_pack: fas
