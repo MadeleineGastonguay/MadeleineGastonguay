@@ -25,8 +25,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/MS_Gastonguay
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=QUNFVHkAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
