@@ -48,7 +48,7 @@ experience:
     description: Worked with a team of interns to develop a physiologically based pharmacokinetic model to describe the concentration profile of drugs metabolized by Cytochrome P450 isoenzymes in pregnant women.
     
   - title: Holster Scholar
-    company: Rachel O'Neill Lab
+    company: Rachel O'Neill Lab at UConn
     company_url: 'https://roneill.lab.uconn.edu/'
     location: Storrs, CT
     date_start: '2017-01-01'
