@@ -12,10 +12,13 @@ interests:
 - Quantitative Systems Pharmacology
 - Mechanistic Mathematical Modeling
 organizations:
-# - name: The Jackson Laboratory
-#  url: https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/
+ - name: The Jackson Laboratory
+   url: https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/
 role: An Aspiring Systems Biologist
 social:
+- icon: cv
+  icon_pack: ai
+  link: /media/Gastonguay_Madeleine_CV.pdf
 - icon: envelope
   icon_pack: fas
   link: /#contact
