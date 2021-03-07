@@ -40,6 +40,10 @@ feature:
   icon: server  
   icon_pack: fas
   name: High Performance Computing
+- description: Proficient
+  icon: globe-europe
+  icon_pack: fas
+  name: French Conversation
 
 
 # Uncomment to use emoji icons.
