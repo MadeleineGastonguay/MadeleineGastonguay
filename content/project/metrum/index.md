@@ -5,7 +5,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 summary: Summary to come
-
 tags:
 - PBPK
 - pharmacokinetic modeling

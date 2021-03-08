@@ -3254,7 +3254,7 @@ input.btn-block[type="button"] {
     display: none; }
 
 .navbar-light .navbar-brand {
-  color: #000; }
+  color: #a34d6a; }
   .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
     color: #a34d6a; }
 
