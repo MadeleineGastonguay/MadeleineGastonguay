@@ -1,5 +1,5 @@
 ---
-bio: 
+bio: I recently graduated from the University of Connecticut with a Bachelors of Science in Applied Mathematics. I am passionate about computational systems biology research, as I love building models with such a fascinating and impactful application. While searching for graduate programs, I am studying Bayesian statistics and strengthening my computational and science communication skill set all while enjoying the beauty of Acadia National Park.
 education:
   courses:
   - course: BS in Applied Mathematics
@@ -41,6 +41,6 @@ superuser: true
 title: Madeleine S. Gastonguay
 ---
 
-Madeleine Gastonguay is a recent graduate of the University of Connecticut Honors Program with a degree in Applied Mathematics. Currently, she is working in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine while deciding what she would like to study in graduate school. While at the University of Connecticut, she completed an undergraduate thesis at the UConn Health Center’s Center for Quantitative Medicine with the Computational Systems Medicine Team. In her downtime she loves all outdoor adventures and singing for her cats :smiley_cat:.
+I am a recent graduate of the University of Connecticut Honors program with a degree in Applied Mathematics. During my time at the University of Connecticut, I completed my undergraduate thesis at the UConn Health Center’s Center for Quantitative Medicine with the Computational Systems Medicine Team. Currently, I’m working in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine while I decide what I would like to study in grad school. In my down time I love all outdoor adventures in Acadia National Park and singing for my cats :smiley_cat:.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gastonguay_Madeleine_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
