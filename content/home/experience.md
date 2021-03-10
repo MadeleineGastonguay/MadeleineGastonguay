@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Data Analyst
-    company: 'The Jackson Laboratory'
+    company: 'The Jackson Laboratory Churchill Lab'
     company_url: 'https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/'
     location: Bar Harbor, ME
     date_start: '2020-06-22'
     date_end: 
-    description: Developing a Bayesian approach to mediation analysis of complex traits with measurement error.
+    description: Developing a Bayesian approach to mediation analysis of complex traits with measurement error. 
         
   - title: Research Assistant
     company: 'UConn Health Center for Quantitative Medicine
@@ -37,7 +37,7 @@ experience:
     location: Farmington, CT
     date_start: '2018-09-01'
     date_end: '2020-05-01'
-    description: Employed a dynamical systems approach to identify putative combinations of targets for Claudin-low Triple Negative Breast Cancer reversion.
+    description: Employed a dynamical systems approach to identify putative combinations of targets for Claudin-low Triple Negative Breast Cancer reversion. 
         
   - title: Summer Intern
     company: Metrum Research Group
