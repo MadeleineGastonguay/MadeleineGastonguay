@@ -1,4 +1,6 @@
 ---
+active: false
+
 # Custom widget
 widget: custom
 
