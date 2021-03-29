@@ -44,6 +44,10 @@ feature:
   icon: globe-europe
   icon_pack: fas
   name: French Conversation
+- description: In Progress
+  icon: carpentries-hex-white
+  icon_pack: custom
+  name: The Carpentries Instructor Training
 
 
 # Uncomment to use emoji icons.
