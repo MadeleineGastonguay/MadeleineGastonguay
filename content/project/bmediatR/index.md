@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: View Code
   url: https://github.com/wesleycrouse/bmediatR
-summary: bmediatR is an R package implementing a Bayesian model selection approach for mediation analysis. Manuscript in preparation for publication.
+summary: bmediatR is an R package implementing a Bayesian model selection approach for mediation analysis.
 tags:
 - Bayesian Statistics
 - Mediation Analysis

@@ -1,5 +1,5 @@
 ---
-bio: I recently graduated from the University of Connecticut with a Bachelors of Science in Applied Mathematics. I am passionate about computational systems biology research, as I love building models with such a fascinating and impactful application. While searching for graduate programs, I am studying Bayesian statistics and strengthening my computational and science communication skill set all while enjoying the beauty of Acadia National Park.
+bio: I recently graduated from the University of Connecticut with a Bachelors of Science in Applied Mathematics. I am passionate about computational systems biology research because I love building models with such a fascinating and impactful application. 
 education:
   courses:
   - course: BS in Applied Mathematics
@@ -9,7 +9,7 @@ email: "madeleine.gastonguay@uconn.edu"
 highlight_name: false
 interests:
 - Systems Genetics
-- Quantitative Systems Pharmacology
+- Personalized Medicine
 - Mechanistic Mathematical Modeling
 organizations:
  - name: The Jackson Laboratory

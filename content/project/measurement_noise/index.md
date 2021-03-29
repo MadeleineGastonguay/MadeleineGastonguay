@@ -11,7 +11,7 @@ links:
   url: https://rshiny.jax.org/measurement_noise/
 summary: Summary to come.
 tags:
-- Deep Learning
+- Mediation Analysis
 title: Uncovering the effect of measurement noise on mediation analysis
 url_code: ""
 url_pdf: ""
