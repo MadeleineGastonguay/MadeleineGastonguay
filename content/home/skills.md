@@ -47,7 +47,7 @@ feature:
 - description: In Progress
   icon: carpentries-hex-white
   icon_pack: custom
-  name: The Carpentries Instructor Training
+  name: Instructor Certification
 
 
 # Uncomment to use emoji icons.
