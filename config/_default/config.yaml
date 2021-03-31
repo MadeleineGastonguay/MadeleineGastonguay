@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Madeleine S. Gastonguay # Website name
-baseurl: 'madeleine-gastonguay.github.io' # Website URL
+baseurl: 'madeleine-gastonguay.netlify.app' # Website URL
 copyright: '@ 2021 Madeleine Gastonguay' # Footer text, e.g. '© {year} Me'
 
 ############################
