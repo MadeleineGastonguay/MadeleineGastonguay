@@ -1,6 +1,9 @@
 ---
 date: "2020-05-10"
 external_link: ""
+image:
+  caption: Poster presented at JMM 2020
+  focal_point: Smart
 links:
 - icon: github
   icon_pack: fab
@@ -13,8 +16,8 @@ tags:
 - Bioinformatics
 - Triple Negative Breast Cancer
 title: A Quantitative Pipeline for the Idenficiation of Combinations of Targets for Claudin-Low Triple Negative Breast Cancer Reversion
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/VeraLiconaResearchGroup/CancerReversion"
+url_pdf: "/project/metrum/jmm.pdf"
 url_slides: ""
 url_video: ""
 ---

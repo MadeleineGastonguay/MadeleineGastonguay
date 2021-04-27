@@ -2,7 +2,7 @@
 date: "2018-08-10"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 summary: Pregnancy causes extensive physiological changes impacting drug exposure in mother and fetus. Predicting a drug’s pharmacokinetic (PK) profile is crucial to ensuring safe and efficacious dosing during pregnancy. Conducting clinical PK trials in pregnancy, however, is both logistically and ethically challenging. Physiologically-based (PB) PK models can provide in silico predictions of drug exposures during pregnancy by accounting for known physiologic changes. These models can guide dosing prior to drug administration and refine dosing once initial exposures are determined.
 tags:
