@@ -44,7 +44,7 @@ feature:
   icon: globe-europe
   icon_pack: fas
   name: French Conversation
-- description: In Progress
+- description: 
   icon: carpentries-hex-white
   icon_pack: custom
   name: Instructor Certification
