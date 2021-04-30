@@ -47,7 +47,7 @@ feature:
 - description: 
   icon: carpentries-hex-white
   icon_pack: custom
-  name: Instructor Certification
+  name: Certified Instructor
 
 
 # Uncomment to use emoji icons.
