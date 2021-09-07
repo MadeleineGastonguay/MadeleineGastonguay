@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory R Keele | Madeleine S. Gastonguay</title>
+    <link>http://example.org/author/gregory-r-keele/</link>
+      <atom:link href="http://example.org/author/gregory-r-keele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory R Keele</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Madeleine Gastonguay</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_hu832303a23623e6c6bb8a7d842240a745_27376_512x512_fill_lanczos_center_2.png</url>
+      <title>Gregory R Keele</title>
+      <link>http://example.org/author/gregory-r-keele/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian model selection approach to mediation analysis</title>
+      <link>http://example.org/publication/2021-01-01_a_bayesian_model_sel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2021-01-01_a_bayesian_model_sel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

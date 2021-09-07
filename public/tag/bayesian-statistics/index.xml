@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Statistics | Madeleine S. Gastonguay</title>
+    <link>http://example.org/tag/bayesian-statistics/</link>
+      <atom:link href="http://example.org/tag/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian Statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Madeleine Gastonguay</copyright><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_hu832303a23623e6c6bb8a7d842240a745_27376_512x512_fill_lanczos_center_2.png</url>
+      <title>Bayesian Statistics</title>
+      <link>http://example.org/tag/bayesian-statistics/</link>
+    </image>
+    
+    <item>
+      <title>bmediatR</title>
+      <link>http://example.org/project/bmediatr/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/bmediatr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,14 +11,32 @@
     <loc>http://example.org/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/talk/example-talk/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/mediation-analysis/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/project/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/project/measurement_noise/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/bayesian-statistics/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/project/bmediatr/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
@@ -26,10 +44,40 @@
     <loc>http://example.org/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/publication-type/2/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication/2021-01-01_a_bayesian_model_sel/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/authors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/gary-a-churchill/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/gregory-r-keele/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/madeleine-s-gastonguay/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication_types/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/wesley-l-crouse/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/william-valdar/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>http://example.org/author/admin/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
@@ -38,13 +86,7 @@
     <loc>http://example.org/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/nelson-bighetti/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/post/getting-started/</loc>
@@ -74,23 +116,38 @@
     <loc>http://example.org/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
+    <loc>http://example.org/project/thesis/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/bioinformatics/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/dynamical-systems/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/triple-negative-breast-cancer/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/ahmed-elmokadem/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/kiersten-utsey/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/matthew-m-riggs/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication/2020-01-01_quantification_of_th/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/reed-freling/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/sean-russell/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
@@ -101,36 +158,56 @@
     <loc>http://example.org/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/athena-f.-zuppa/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/daniela-j.-conrado/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/ganesh-moorthy/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/giselle-r.-benitez/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/hakon-hakonarson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/janice-prodell/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/jonathan-bradfield/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/madeleine-s.-gastonguay/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/marc-r.-gastonguay/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/author/martha-a.-q.-curley/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/admin/</loc>
+    <loc>http://example.org/publication/2019-01-01_midazolam_dose_optim/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/publication/2019-01-01_morphine_dose_optimi/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/author/nicole-r.-zane/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/pbpk/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tag/systems-pharmacology/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/project/metrum/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/madeleine-gastonguay/</loc>
+  </url><url>
+    <loc>http://example.org/author/madeleine-s.-gastonguay/</loc>
   </url>
 </urlset>

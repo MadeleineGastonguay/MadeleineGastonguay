@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Madeleine S. Gastonguay</title>
     <link>http://example.org/</link>
       <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Madeleine S. Gastonguay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Madeleine Gastonguay</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>http://example.org/media/icon_hu832303a23623e6c6bb8a7d842240a745_27376_512x512_fill_lanczos_center_2.png</url>
+      <title>Madeleine S. Gastonguay</title>
       <link>http://example.org/</link>
     </image>
     
@@ -125,6 +125,30 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Uncovering the effect of measurement noise on mediation analysis</title>
+      <link>http://example.org/project/measurement_noise/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/measurement_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bmediatR</title>
+      <link>http://example.org/project/bmediatr/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/bmediatr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian model selection approach to mediation analysis</title>
+      <link>http://example.org/publication/2021-01-01_a_bayesian_model_sel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2021-01-01_a_bayesian_model_sel/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -252,6 +276,23 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>A Quantitative Pipeline for the Idenficiation of Combinations of Targets for Claudin-Low Triple Negative Breast Cancer Reversion</title>
+      <link>http://example.org/project/thesis/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/thesis/</guid>
+      <description>&lt;p&gt;Claudin-Low Triple Negative Breast Cancer (CL TNBC) has high relapse and low survival rates. Due to the tumors’ decreased response to cytotoxic drugs and hormone therapy, alternative therapeutic strategies should be explored. One such strategy is tumor reversion, the biological process by which tumor cells lose a significant fraction of their malignant phenotype. Tumor reversion has been observed for over a century and has been achieved &lt;em&gt;in vitro&lt;/em&gt;, &lt;em&gt;in vivo&lt;/em&gt;, and &lt;em&gt;ex vivo&lt;/em&gt;. In particular, tumor reversion has been achieved &lt;em&gt;in vitro&lt;/em&gt; with the CL cell line MDA-MB-231, and &lt;em&gt;ex vivo&lt;/em&gt; in mice xenografted with MDA-MB-231 cells. This project takes a dynamical systems approach to identify &lt;em&gt;in silico&lt;/em&gt; combinations of therapeutic targets for CL TNBC reversion. An intracellular signaling network was reconstructed with multi-omics profile data for MDA-MB-231. Then a structure-based attractor-based control method for nonlinear dynamic systems was applied to the network to identify driver nodes of the system. Topological signal flow analysis was applied to the network for virtual screenings of driver node perturbations to predict their effect on the system. Combinations of nodes whose concerted perturbation resulted in the system shifting from the tumorigenic basin of attraction to the normal-like basin of attraction were deemed putative concerted reversion targets. Through this methodology, several potential combinations of targets that may shift the cell from a tumorigenic to a normal-like phenotype have been identified to be further validated in future work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantification of the Impact of Partition Coefficient Prediction Methods on Physiologically Based Pharmacokinetic Model Output Using a Standardized Tissue Composition s</title>
+      <link>http://example.org/publication/2020-01-01_quantification_of_th/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2020-01-01_quantification_of_th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>http://example.org/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -279,7 +320,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-843721695&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-371284569&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -289,7 +330,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-843721695&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-371284569&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -516,20 +557,6 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://example.org/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>http://example.org/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -703,69 +730,38 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>http://example.org/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/external-project/</guid>
+      <title>Midazolam Dose Optimization in Critically Ill Pediatric Patients With Acute Respiratory Failure: A Population Pharmacokinetic-Pharmacogenomic Study</title>
+      <link>http://example.org/publication/2019-01-01_midazolam_dose_optim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2019-01-01_midazolam_dose_optim/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>http://example.org/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Morphine Dose Optimization in Critically Ill Pediatric Patients With Acute Respiratory Failure: A Population Pharmacokinetic-Pharmacogenomic Study</title>
+      <link>http://example.org/publication/2019-01-01_morphine_dose_optimi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2019-01-01_morphine_dose_optimi/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://example.org/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://example.org/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>The development of an open and general maternal-fetal physiologically based pharmacokinetic model for drugs metabolized by cytochromes P450 isoenzymes</title>
+      <link>http://example.org/project/metrum/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://example.org/project/metrum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Pregnancy causes extensive physiological changes impacting drug exposure in mother and fetus. Predicting a drug’s pharmacokinetic (PK) profile is crucial to ensuring safe and efficacious dosing during pregnancy. Conducting clinical PK trials in pregnancy, however, is both logistically and ethically challenging. Physiologically-based (PB) PK models can provide in silico predictions of drug exposures during pregnancy by accounting for known physiologic changes. These models can guide dosing prior to drug administration and refine dosing once initial exposures are determined.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Maternal-fetal and non-pregnant PBPK models were developed (R, mrgsolve) to predict maternal/fetal exposure of drugs primarily metabolized by liver CYP450 enzymes (3A4, 2D6, 1A2, 2B6). Model parameters, initially based on literature, were refined using sensitivity analyses followed by parameter optimization. Models were validated by comparing observed and predicted PK profiles of 10 drugs: midazolam, metoprolol, caffeine, nifedipine, nevirapine, artemether, indinavir, buprenorphine, codeine and methadone.
+Results: The relative error (RE) in predicted estimates of area under the curve (AUC) and peak plasma concentration (Cmax) across all tested drugs were 0.17 - 33.1% for AUC and 1.57 - 50.7% for Cmax in the non-pregnant model and 3.34 - 38.1% (AUC) and 7.88 - 23.8% (Cmax) in the pregnant model. Sensitivity analyses and parameter optimization further improved model predictions of these PK parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; The described PBPK model provides a reproducible, open-source system for model-informed decision for exploring and developing exposure-based dosing recommendations in maternal/fetal patient populations. Inclusion of individual genotype data may further improve the modeling.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/admin/config.yml</link>
+      <link>http://example.org/madeleine-gastonguay/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/admin/config.yml</guid>
+      <guid>http://example.org/madeleine-gastonguay/config.yml</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athena F. Zuppa | Madeleine S. Gastonguay</title>
+    <link>http://example.org/author/athena-f.-zuppa/</link>
+      <atom:link href="http://example.org/author/athena-f.-zuppa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Athena F. Zuppa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Madeleine Gastonguay</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_hu832303a23623e6c6bb8a7d842240a745_27376_512x512_fill_lanczos_center_2.png</url>
+      <title>Athena F. Zuppa</title>
+      <link>http://example.org/author/athena-f.-zuppa/</link>
+    </image>
+    
+    <item>
+      <title>Midazolam Dose Optimization in Critically Ill Pediatric Patients With Acute Respiratory Failure: A Population Pharmacokinetic-Pharmacogenomic Study</title>
+      <link>http://example.org/publication/2019-01-01_midazolam_dose_optim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2019-01-01_midazolam_dose_optim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphine Dose Optimization in Critically Ill Pediatric Patients With Acute Respiratory Failure: A Population Pharmacokinetic-Pharmacogenomic Study</title>
+      <link>http://example.org/publication/2019-01-01_morphine_dose_optimi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/2019-01-01_morphine_dose_optimi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

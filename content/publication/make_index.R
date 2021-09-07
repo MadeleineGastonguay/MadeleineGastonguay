@@ -137,5 +137,5 @@ out_fold   <- "~/GitHub/MadeleineGastonguay/content/publication/"
 
 bibtex_2academic(bibfile  = my_bibfile,
                  outfold   = out_fold,
-                 abstract  = F,
-                 overwrite = T)
+                 abstract  = T,
+                 overwrite = F)
