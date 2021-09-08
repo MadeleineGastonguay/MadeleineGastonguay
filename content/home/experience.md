@@ -54,4 +54,12 @@ experience:
     date_start: '2017-01-01'
     date_end: '2017-09-01'
     description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility.
+    
+     - title: Student Intern
+    company: Metrum Research Group
+    company_url: 'https://www.metrumrg.com/'
+    location: Tariffville, CT
+    date_start: '2015-09-01'
+    date_end: '2016-06-01'
+    description: Collaborated with Children's Hospital of Philadelphia to study idnividualized dose optimization of morphine and midazolam in critically ill pediatric patients with a pharmacokinetic-pharmacogenomic study.
 ---
