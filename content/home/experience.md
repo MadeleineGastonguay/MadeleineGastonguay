@@ -55,7 +55,7 @@ experience:
     date_end: '2017-09-01'
     description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility.
     
-     - title: Student Intern
+  - title: Student Intern
     company: Metrum Research Group
     company_url: 'https://www.metrumrg.com/'
     location: Tariffville, CT
