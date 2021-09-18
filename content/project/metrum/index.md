@@ -4,13 +4,16 @@ external_link: ""
 image:
   caption: Model structure
   focal_point: Smart
+links:
+- name: Poster PDF
+  url: /project/metrum/MF_PBPK.pdf
 summary: Pregnancy causes extensive physiological changes impacting drug exposure in mother and fetus. Predicting a drug’s pharmacokinetic (PK) profile is crucial to ensuring safe and efficacious dosing during pregnancy. Conducting clinical PK trials in pregnancy, however, is both logistically and ethically challenging. Physiologically-based (PB) PK models can provide *in silico* predictions of drug exposures during pregnancy by accounting for known physiologic changes. These models can guide dosing prior to drug administration and refine dosing once initial exposures are determined.
 tags:
 - PBPK
 - systems pharmacology
 title: The development of an open and general maternal-fetal physiologically based pharmacokinetic model for drugs metabolized by cytochromes P450 isoenzymes
 url_code: ""
-url_pdf: "/project/metrum/MF_PBPK.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---

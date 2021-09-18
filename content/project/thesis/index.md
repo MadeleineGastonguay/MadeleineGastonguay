@@ -9,7 +9,11 @@ links:
   icon_pack: fab
   name: View Code
   url: https://github.com/VeraLiconaResearchGroup/CancerReversion
+- name: Poster PDF
+  url: /project/thesis/jmm.pdf
+
 summary: My undergraduate thesis work focused on a dynamical approach to identify reversion targets for a subtype of Triple Negative Breast Cancer (TNBC). Through the use of bioinformatics tools, optimal control theory, and machine learning algorithms, several combinations of reversion targets were identified for future validation. A portion of my contribution to the project was funded by a Summer Undergraduate Research Fund from the University of Connecticut Office of Undergraduate Research.
+
 
 tags:
 - Dynamical Systems
@@ -17,7 +21,7 @@ tags:
 - Triple Negative Breast Cancer
 title: A Quantitative Pipeline for the Idenficiation of Combinations of Targets for Claudin-Low Triple Negative Breast Cancer Reversion
 url_code: ""
-url_pdf: "/project/thesis/jmm.pdf"
+url_pdf: 
 url_slides: ""
 url_video: ""
 ---
