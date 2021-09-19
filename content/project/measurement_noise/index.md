@@ -4,11 +4,11 @@ external_link: ""
 image:
   caption: Measurement Noise Models
   focal_point: Smart
-links:
-- icon: shiny.svg
-  icon_pack: /assets/media/icon-pack/
-  name: Shiny App
-  url: https://rshiny.jax.org/measurement_noise/
+#links:
+#- icon: shiny.svg
+#  icon_pack: /assets/media/icon-pack/
+#  name: Shiny App
+#  url: https://rshiny.jax.org/measurement_noise/
 summary: Measurement noise is frequently ignored in mediation analysis. Inferences are made under the assumption that the data represents the underlying causal relationship when in reality the observed data is just a shadow of the true causal variables. In this analysis, we address the impact of applying a standard mediation analysis to data as if it is measured without error and identify ways to diagnose inconsistent results.
 tags:
 - Mediation Analysis
