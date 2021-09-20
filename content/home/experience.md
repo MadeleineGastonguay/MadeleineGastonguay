@@ -37,7 +37,7 @@ experience:
     location: Farmington, CT
     date_start: '2018-09-01'
     date_end: '2020-05-01'
-    description: Employed a dynamical systems approach to identify putative combinations of targets for Claudin-low Triple Negative Breast Cancer reversion. 
+    description: Employed a dynamical systems approach to identify putative combinations of targets for Claudin-low Triple Negative Breast Cancer reversion. Work was funded by a [Summer Undergraduate Research Fund Award](https://ugradresearch.uconn.edu/surf/). 
         
   - title: Summer Intern
     company: Metrum Research Group
@@ -53,7 +53,7 @@ experience:
     location: Storrs, CT
     date_start: '2017-01-01'
     date_end: '2017-09-01'
-    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility.
+    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility. Work was funded by the [Holster Scholar Program](https://honors.uconn.edu/2017-holster-scholars/)
     
   - title: Student Intern
     company: Metrum Research Group
