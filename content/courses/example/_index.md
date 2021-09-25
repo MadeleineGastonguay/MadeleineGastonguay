@@ -1,41 +1,17 @@
 ---
-date: "2021-01-24"
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
-type: book
+date: "2021-011-01"
+linkTitle: Data Carpentries Genomics
+summary: This course teaches data management and analysis for genomics research. No prior coding experience is required.
+title: "Data Carpentries Genomics"
+type: Interactive Workshop
 ---
 
-{{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
+## Workshop overview
 
-## What you will learn
+This workshop, designed by The Data Carpentries, teaches data management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of command-line utilities, use of command-line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing. The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+*Description taken from [The Data Carpentries](https://datacarpentry.org/genomics-workshop/)*
 
-## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Click to Register" cta_link="https://smcclatchy.github.io/2021-11-01-jackson/" >}}

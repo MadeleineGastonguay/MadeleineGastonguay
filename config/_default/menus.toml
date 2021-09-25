@@ -29,13 +29,13 @@
   url = "#gallery"
   weight = 60
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 60
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 60
 
 [[main]]
-  name = "Contact"
+  name = "Contact Me"
   url = "#contact"
   weight = 80
 
