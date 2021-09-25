@@ -37,6 +37,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/madeleine-gastonguay/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-5700-8543
 superuser: true
 title: Madeleine S. Gastonguay
 ---
