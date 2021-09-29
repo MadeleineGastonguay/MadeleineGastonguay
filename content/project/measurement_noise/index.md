@@ -2,7 +2,7 @@
 date: "2021-03-08"
 external_link: ""
 image:
-  caption: Measurement Noise Models
+  caption: 
   focal_point: Smart
 #links:
 #- icon: shiny.svg
