@@ -11,6 +11,7 @@ interests:
 - Systems Genetics
 - Personalized Medicine
 - Mechanistic Mathematical Modeling
+- Systems Pharmacology
 organizations:
  - name: The Jackson Laboratory
    url: https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/
