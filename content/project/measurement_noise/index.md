@@ -13,7 +13,7 @@ summary: Measurement noise is frequently ignored in mediation analysis. Inferenc
 tags:
 - Mediation Analysis
 - Measurement Noise
-title: The impact of measurement noise on mediation analysis
+title: The impact of measurement noise in mediation analysis
 url_code: ""
 url_pdf: ""
 url_slides: ""

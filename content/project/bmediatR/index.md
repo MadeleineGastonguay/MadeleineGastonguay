@@ -15,7 +15,7 @@ summary: We developed a flexible Bayesian model selection approach to mediation 
 tags:
 - Bayesian Statistics
 - Mediation Analysis
-title: A Bayesian Model Selection Approach to Mediation Analysis
+title: A Bayesian model selection approach to mediation analysis
 url_code: 
 url_pdf:
 url_slides: ""

@@ -19,7 +19,7 @@ tags:
 - Dynamical Systems
 - Bioinformatics
 - Triple Negative Breast Cancer
-title: A Quantitative Pipeline for the Idenficiation of Combinations of Targets for Claudin-Low Triple Negative Breast Cancer Reversion
+title: A quantitative pipeline for the identification of combinations of targets for claudin-low triple negative breast cancer reversion
 url_code: ""
 url_pdf: 
 url_slides: ""

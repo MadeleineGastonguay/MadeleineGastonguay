@@ -28,7 +28,7 @@ experience:
     location: Bar Harbor, ME
     date_start: '2020-06-22'
     date_end: 
-    description: Developing a Bayesian approach to mediation analysis of complex traits with measurement error. 
+    description: Developing a Bayesian approach to mediation analysis and diagnosing the impact of measurement noise in mediation analysis.
         
   - title: Research Assistant
     company: 'UConn Health Center for Quantitative Medicine
@@ -53,7 +53,7 @@ experience:
     location: Storrs, CT
     date_start: '2017-01-01'
     date_end: '2017-09-01'
-    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility. Work was funded by the [Holster Scholar Program](https://honors.uconn.edu/2017-holster-scholars/)
+    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility. Work was funded by the [Holster Scholar Program](https://honors.uconn.edu/2017-holster-scholars/).
     
   - title: Student Intern
     company: Metrum Research Group
