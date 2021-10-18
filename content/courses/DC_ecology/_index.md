@@ -1,5 +1,5 @@
 ---
-date: "2021-12-07"
+date: "2021-012-07"
 linkTitle: Data Carpentry Ecology
 summary: This course teaches data management and analysis in R. No prior coding experience is required.
 title: "Data Carpentry Ecology"
