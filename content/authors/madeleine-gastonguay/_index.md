@@ -1,5 +1,5 @@
 ---
-bio: I recently graduated from the University of Connecticut with a Bachelors of Science in Applied Mathematics. I am passionate about computational systems biology research because I love building models with such a fascinating and impactful application. 
+bio: I graduated from the University of Connecticut with a Bachelors of Science in Applied Mathematics. I am passionate about computational systems biology research because I love building models with such a fascinating and impactful application. 
 education:
   courses:
   - course: BS in Applied Mathematics
@@ -45,6 +45,6 @@ superuser: true
 title: Madeleine S. Gastonguay
 ---
 
-I am a recent graduate of the University of Connecticut Honors program with a degree in Applied Mathematics and minor in Bioinformatics. I completed my undergraduate thesis at the UConn Health Center’s Center for Quantitative Medicine with the Computational Systems Medicine Team. Currently, I’m working in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine while I prepare to start a PhD program. As a certified instructor with The Carpentries, I am involved in bioinformatics and data science training and an advocate of open source science. I am passionate about contributing to the development and improvement of individualized treatment options through the use of mathematical and statistical models. In my down time I love all outdoor adventures in Acadia National Park and singing for my cats :smiley_cat:.
+I am a graduate of the University of Connecticut Honors program with a degree in Applied Mathematics and minor in Bioinformatics. I completed my undergraduate thesis at the UConn Health Center’s Center for Quantitative Medicine with the Computational Systems Medicine Team. Currently, I’m working in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine while I apply to PhD programs. As a certified instructor with The Carpentries, I am involved in bioinformatics and data science training and an advocate of open source science. I am passionate about contributing to the development and improvement of individualized treatment options through the use of mathematical and statistical models. In my down time I love all outdoor adventures in Acadia National Park and singing for my cats :smiley_cat:.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gastonguay_Madeleine_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
