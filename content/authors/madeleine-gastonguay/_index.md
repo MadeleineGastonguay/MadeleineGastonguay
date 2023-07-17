@@ -48,6 +48,8 @@ superuser: true
 title: Madeleine S. Gastonguay
 ---
 
-I am a graduate of the University of Connecticut Honors program with a degree in Applied Mathematics and minor in Bioinformatics. I completed my undergraduate thesis at the UConn Health Center for Quantitative Medicine with the Computational Systems Medicine Team. After graduation, I worked as a post-bacc researcher in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine. Currently, I am a second year biomedical engineering PhD student and Johns Hopkins. As a certified instructor with The Carpentries, I am involved in bioinformatics and data science training and an advocate of open source science. I am fascinated by the use of mathematical and statistical modeling to understand biology, and I foresee a career pursing this research to contribute to the discovery and development of individualized therapeutics.
+
+I am a graduate of the University of Connecticut Honors program with a degree in Applied Mathematics and minor in Bioinformatics. I completed my undergraduate thesis at the UConn Health Center for Quantitative Medicine with the Computational Systems Medicine Team. I worked as a post-bacc researcher in the Churchill Lab at The Jackson Laboratory in Bar Harbor, Maine until 2022, when I joined the Biomedical Engineering PhD program at Johns Hopkins University. As a certified instructor with The Carpentries, I am involved in bioinformatics and data science training and an advocate of open source science. I am fascinated by the use of mathematical and statistical modeling to understand biology, and I foresee a career pursing this research to contribute to the discovery and development of individualized therapeutics. In my down time I love all outdoor adventures in Acadia National Park and singing for my cats :smiley_cat:.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gastonguay_Madeleine_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

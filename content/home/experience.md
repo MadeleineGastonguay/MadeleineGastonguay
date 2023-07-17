@@ -53,7 +53,7 @@ experience:
     location: Storrs, CT
     date_start: '2017-01-01'
     date_end: '2017-09-01'
-    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-dervied cancer susceptibility. Work was funded by the [Holster Scholar Program](https://honors.uconn.edu/2017-holster-scholars/).
+    description: Utilized wet-lab techniques to generate hypotheses about the effect of host genetic variability on Epstein Barr Virus-associated cancer susceptibility. Work was funded by the [Holster Scholar Program](https://honors.uconn.edu/2017-holster-scholars/).
     
   - title: Student Intern
     company: Metrum Research Group
@@ -61,5 +61,5 @@ experience:
     location: Tariffville, CT
     date_start: '2015-09-01'
     date_end: '2016-06-01'
-    description: Collaborated with Children's Hospital of Philadelphia to study idnividualized dose optimization of morphine and midazolam in critically ill pediatric patients with a pharmacokinetic-pharmacogenomic study.
+    description: Collaborated with Children's Hospital of Philadelphia to study idnividualized dose optimization of morphine and midazolam in critically ill pediatric patients with a population pharmacokinetic-pharmacogenomic study.
 ---
