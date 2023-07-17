@@ -132,8 +132,8 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
-my_bibfile <- "~/GitHub/MadeleineGastonguay/content/publication/my_pubs.bib"
-out_fold   <- "~/GitHub/MadeleineGastonguay/content/publication/"
+my_bibfile <- "~/MadeleineGastonguay/content/publication/my_pubs.bib"
+out_fold   <- "~/MadeleineGastonguay/content/publication/"
 
 bibtex_2academic(bibfile  = my_bibfile,
                  outfold   = out_fold,
