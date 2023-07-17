@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: 'Johns Hopkins School of Medicine'
+    company_url: 'https://www.bme.jhu.edu/'
+    location: Baltimore, MD
+    date_start: '2022-08-25'
+    date_end: 
+    description: Studying computational medicine.
   - title: Research Data Analyst
     company: 'The Jackson Laboratory Churchill Lab'
     company_url: 'https://www.jax.org/research-and-faculty/research-labs/the-churchill-lab/'
     location: Bar Harbor, ME
     date_start: '2020-06-22'
-    date_end: 
+    date_end: '2022-07-01'
     description: Developing a Bayesian approach to mediation analysis and diagnosing the impact of measurement noise in mediation analysis.
         
   - title: Research Assistant
