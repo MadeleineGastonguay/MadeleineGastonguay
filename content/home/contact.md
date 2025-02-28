@@ -33,12 +33,12 @@ design:
   columns: '2'
 ---
 
-<a href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MS_Gastonguay</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
-data-width="400"
-  data-height="500"
-  data-chrome="nofooter noborders">
-Tweets by MS_Gastonguay
-</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# <a href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MS_Gastonguay</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# 
+# <a class="twitter-timeline" href="https://twitter.com/MS_Gastonguay?ref_src=twsrc%5Etfw"
+# data-width="400"
+#   data-height="500"
+#   data-chrome="nofooter noborders">
+# Tweets by MS_Gastonguay
+# </a> 
+# <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
