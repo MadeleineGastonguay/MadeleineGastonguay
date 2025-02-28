@@ -53,3 +53,6 @@ Immune avidity appeared to increase with later ART initiation, although whether
 this effect is specific to TLR7 treatment is unclear. Our model provides mechanistic 
 insight into immunotherapeutic control of viral rebound and can be adapted to predict 
 their impact in controlling HIV, guiding future therapeutic design and clinical trials.
+
+Co-authors: Mélanie Prague, Jeffrey M Gerold, Irene Balelli, Chloé Pasin, Jonathan Z Li, Dan H Barouch, James B Whitney, and Alison L Hill1
+

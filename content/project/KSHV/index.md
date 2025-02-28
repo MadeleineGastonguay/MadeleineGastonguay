@@ -52,3 +52,5 @@ These results suggest that KSHV persists by employing an active partitioning mec
 as opposed to random segregation, but that both replication and segregation are imperfect. 
 Furthermore, therapeutic strategies targeting episome replication may effectively 
 reduce tumor burden for KSHV-associated malignancies. 
+
+Co-authors: Jeffery Gerold, Franceline Juillard, Agnieszka Szymula, Alison L Hill, and Kenneth Kaye
