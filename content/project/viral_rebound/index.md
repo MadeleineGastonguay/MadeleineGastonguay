@@ -1,14 +1,9 @@
 ---
-date: "2024-3-1"
+date: "2024-03-01"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
-#links:
-#- icon: shiny.svg
-#  icon_pack: /assets/media/icon-pack/
-#  name: Shiny App
-#  url: https://rshiny.jax.org/measurement_noise/
 summary: In collaboration with Mélanie Prague at the University of Bordeaux, we developed a mathematical model of within-host HIV dynamics and used nonlinear mixed-effects modeling implemented in Monolix to investigate the mechanism of action of several immunotherapies.
 tags:
 - Viral Dynamics
