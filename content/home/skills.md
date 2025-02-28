@@ -35,7 +35,7 @@ feature:
 - description: Proficient
   icon: monolix-icon
   icon_pack: custom
-  name: Julia Language
+  name: Monolix
 - description: Intermediate
   icon: github
   icon_pack: fab
