@@ -20,12 +20,20 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: Proficient
+  icon: matlab-svgrepo-com
+  icon_pack: custom
+  name: matlab
 - description: Intermediate
   icon: python
   icon_pack: fab
   name: Python
 - description: Beginner
   icon: julia-lang
+  icon_pack: custom
+  name: Julia Language
+- description: Proficient
+  icon: monolix-icon
   icon_pack: custom
   name: Julia Language
 - description: Intermediate
@@ -40,14 +48,14 @@ feature:
   icon: server  
   icon_pack: fas
   name: High Performance Computing
-- description: Proficient
-  icon: globe-europe
-  icon_pack: fas
-  name: French Conversation
 - description: 
   icon: carpentries-hex-white
   icon_pack: custom
   name: Certified Instructor
+- description: Proficient
+  icon: globe-europe
+  icon_pack: fas
+  name: French Conversation
 
 
 # Uncomment to use emoji icons.
