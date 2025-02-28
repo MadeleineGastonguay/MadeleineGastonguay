@@ -15,6 +15,7 @@ summary: As a post-bacc at the Jackson Laboratory, my main research focus has be
 tags:
 - Mediation Analysis
 - Measurement Noise
+- Bayesian Inference
 title: The impact of measurement noise in mediation analysis
 url_code: ""
 url_pdf: ""

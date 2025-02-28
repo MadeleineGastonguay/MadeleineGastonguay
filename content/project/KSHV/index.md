@@ -54,3 +54,4 @@ Furthermore, therapeutic strategies targeting episome replication may effectivel
 reduce tumor burden for KSHV-associated malignancies. 
 
 Co-authors: Jeffery Gerold, Franceline Juillard, Agnieszka Szymula, Alison L Hill, and Kenneth Kaye
+Featured figure created in BioRender. Gastonguay, M. (2025) https://BioRender.com/e42n725

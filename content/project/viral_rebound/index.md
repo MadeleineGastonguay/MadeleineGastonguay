@@ -49,5 +49,5 @@ this effect is specific to TLR7 treatment is unclear. Our model provides mechani
 insight into immunotherapeutic control of viral rebound and can be adapted to predict 
 their impact in controlling HIV, guiding future therapeutic design and clinical trials.
 
-Co-authors: Mélanie Prague, Jeffrey M Gerold, Irene Balelli, Chloé Pasin, Jonathan Z Li, Dan H Barouch, James B Whitney, and Alison L Hill1
+Co-authors: Mélanie Prague, Jeffrey M Gerold, Irene Balelli, Chloé Pasin, Jonathan Z Li, Dan H Barouch, James B Whitney, and Alison L Hill
 
