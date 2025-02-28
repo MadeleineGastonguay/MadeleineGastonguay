@@ -4,7 +4,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-#links:
+links:
+- name: DOI
+  url: https://doi.org/10.1093/genetics/iyad045
 #- icon: shiny.svg
 #  icon_pack: /assets/media/icon-pack/
 #  name: Shiny App
