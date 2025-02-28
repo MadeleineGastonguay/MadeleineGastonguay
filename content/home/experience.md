@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Student
-    company: 'Johns Hopkins School of Medicine'
-    company_url: 'https://www.bme.jhu.edu/'
+  - title: PhD Candidate
+    company: 'Hill Lab at the Johns Hopkins Institute for Computational Medicine'
+    company_url: 'https://alsnhll.github.io/'
     location: Baltimore, MD
     date_start: '2022-08-25'
     date_end: 
