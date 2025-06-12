@@ -4,7 +4,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-#links:
+links:
+  - name: Poster PDF
+  url: /project/KSHV/MIDAS_poster_gastonguay
 #- icon: shiny.svg
 #  icon_pack: /assets/media/icon-pack/
 #  name: Shiny App
