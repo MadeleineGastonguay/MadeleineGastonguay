@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 links:
-  - icon: github
+- icon: github
   icon_pack: fab
   name: View Code
   url: https://github.com/MadeleineGastonguay/KSHV_math
@@ -15,6 +15,7 @@ links:
 #  icon_pack: /assets/media/icon-pack/
 #  name: Shiny App
 #  url: https://rshiny.jax.org/measurement_noise/
+
 summary: In collaboration with the Kaye lab at Brigham and Women's Hospital, we are quantifying the dynamics of latent Kaposi's sarcoma-associated herpesvirus (KSHV) persistence. We developed a mathematical model and a statistical inference framework to infer viral dynamics from fluorescence microscopy images of cells in culture. Forward simulations were used to understand decades-long viral persistence and evaluate latent KSHV replication as a potential therapeutic target to disrupt KSHV-dependent tumor growth. 
 tags:
 - Viral Dynamics
