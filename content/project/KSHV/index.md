@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: View Code
   url: https://github.com/MadeleineGastonguay/KSHV_math
-  - name: Poster PDF
+- name: Poster PDF
   url: /project/KSHV/MIDAS_poster_gastonguay
 #- icon: shiny.svg
 #  icon_pack: /assets/media/icon-pack/
