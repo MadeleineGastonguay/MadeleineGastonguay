@@ -5,6 +5,10 @@ image:
   caption: 
   focal_point: Smart
 links:
+  - icon: github
+  icon_pack: fab
+  name: View Code
+  url: https://github.com/MadeleineGastonguay/KSHV_math
   - name: Poster PDF
   url: /project/KSHV/MIDAS_poster_gastonguay
 #- icon: shiny.svg
