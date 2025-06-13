@@ -10,7 +10,7 @@ links:
   name: View Code
   url: https://github.com/MadeleineGastonguay/KSHV_math
 - name: Poster PDF
-  url: /project/KSHV/MIDAS_poster_gastonguay
+  url: /project/KSHV/MIDAS_poster_gastonguay.pdf
 #- icon: shiny.svg
 #  icon_pack: /assets/media/icon-pack/
 #  name: Shiny App
