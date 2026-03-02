@@ -38,6 +38,7 @@ bibtex_2academic <- function(bibfile,
   # create a function which populates the md template based on the info
   # about a publication
   create_md <- function(x) {
+
     x[["title"]] <- x[["title"]] %>% str_replace_all("\\{", "") %>% str_replace_all("\\}", "")
 
 
@@ -77,11 +78,12 @@ bibtex_2academic <- function(bibfile,
 
       # Publication details: journal, volume, issue, page numbers and doi link
       publication <- x[["journal"]]
-      if (!is.na(x[["volume"]])) publication <- paste0(publication,
+
+      if ("volume" %in% names(x)) publication <- paste0(publication,
                                                        ", (", x[["volume"]], ")")
-      if (!is.na(x[["number"]])) publication <- paste0(publication,
+      if ("number" %in% names(x)) publication <- paste0(publication,
                                                        ", ", x[["number"]])
-      if (!is.na(x[["pages"]])) publication <- paste0(publication,
+      if ("pages" %in% names(x)) publication <- paste0(publication,
                                                       ", _pp. ", x[["pages"]], "_")
       # if (!is.na(x[["doi"]])) publication <- paste0(publication,
       #                                               ", ", paste0("https://doi.org/",
@@ -132,7 +134,7 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
-my_bibfile <- "~/MadeleineGastonguay/content/publication/my_pubs2.bib"
+my_bibfile <- "~/MadeleineGastonguay/content/publication/my_pubs3.bib"
 out_fold   <- "~/MadeleineGastonguay/content/publication/"
 
 bibtex_2academic(bibfile  = my_bibfile,
