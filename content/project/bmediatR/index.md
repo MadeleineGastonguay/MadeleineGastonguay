@@ -10,7 +10,7 @@ links:
   name: View Code
   url: https://github.com/wesleycrouse/bmediatR
 - name: DOI
-  url: https://doi.org/10.1101/2021.07.19.452969
+  url: https://doi.org/10.1371/journal.pgen.1010184
 summary: In collaboration with the Valdar lab at UNC, we developed a Bayesian model selection approach to mediation analysis implemented in the bmediatR R package. This approach allows for flexibility in both data inputs and potential inferences and uses conjugate priors to increase efficiency. I am currently extending the framework to allow for the inference of moderated mediation.
 tags:
 - Bayesian Inference
