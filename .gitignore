@@ -7,3 +7,7 @@
 content/.DS_Store
 */.DS_Store
 static/.DS_Store
+public/
+resources/_gen/
+.hugo_build.lock
+.claude/
