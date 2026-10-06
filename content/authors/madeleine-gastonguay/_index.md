@@ -8,7 +8,7 @@ education:
   - course: PhD in Biomedical Engineering
     institution: Johns Hopkins School of Medicine
     year: in progress
-email: "mgaston1@jh.edu"
+email: "gastonguay.madeleine@gmail.com"
 highlight_name: false
 interests:
 - Systems Genetics
@@ -26,7 +26,8 @@ social:
   link: /media/Gastonguay_Madeleine_CV.pdf
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  # link: /#contact
+  link: mailto:gastonguay.madeleine@gmail.com
 - display:
     header: true
   icon: twitter
