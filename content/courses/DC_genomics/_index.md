@@ -1,5 +1,5 @@
 ---
-date: "2021-011-01"
+date: "2021-11-01"
 linkTitle: Data Carpentry Genomics
 summary: This course teaches data management and analysis for genomics research. No prior coding experience is required.
 title: "Data Carpentry Genomics"
