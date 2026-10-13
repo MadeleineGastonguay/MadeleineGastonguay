@@ -28,12 +28,12 @@ social:
   icon_pack: fas
   # link: /#contact
   link: mailto:gastonguay.madeleine@gmail.com
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/MS_Gastonguay
+# - display:
+#     header: true
+#   icon: twitter
+#   icon_pack: fab
+#   label: Follow me on Twitter
+#   link: https://twitter.com/MS_Gastonguay
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yuNBfV4AAAAJ&hl=en
