@@ -4,6 +4,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+links:
+- name: Poster PDF
+  url: /project/viral_rebound/gastonguay_ACOP_poster.pdf
 summary: In collaboration with Mélanie Prague at the University of Bordeaux, we developed a mathematical model of within-host HIV dynamics and used nonlinear mixed-effects modeling implemented in Monolix to investigate the mechanism of action of several immunotherapies.
 tags:
 - Viral Dynamics
