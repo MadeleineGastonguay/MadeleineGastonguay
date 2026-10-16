@@ -11,6 +11,10 @@ links:
 #  icon_pack: /assets/media/icon-pack/
 #  name: Shiny App
 #  url: https://rshiny.jax.org/measurement_noise/
+- icon: figshare
+  icon_pack: ai
+  name: View Code
+  url: https://doi.org/10.6084/m9.figshare.20126543
 summary: As a post-bacc at the Jackson Laboratory, my main research focus has been mediation analysis. A primary objective of mediation analysis is to infer the relationship among three variables, and it is becoming increasingly common to use it with multi-omics data to understand causal pathways underlying a phenotype. Mediation analysis is often done without distinguishing variation due to causal relationships from variation due to measurement noise, which can have a profound effect on inferences. In this analysis, we address the impact of applying a standard mediation analysis to data as if it is measured without error and identify ways to diagnose the accuracy of results from real data.
 tags:
 - Mediation Analysis
